@@ -34,7 +34,7 @@ public class LocationEntity {
         return latitude;
     }
     public void setLatitude(Double latitude) {
-        this.alatitude = latitude;
+        this.latitude = latitude;
     }
     public Double getLongitude() {
         return longitude;
